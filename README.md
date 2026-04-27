@@ -1,4 +1,6 @@
-Flashlight for browser
+## Flashlight for browser
+I took inspiration from the project by my ex-collegue from [here](https://github.com/Pankajtanwarbanna/the-real-dark-mode). For running a simple JS, you don't need a chrome-extension. So I made a simple drag-n-drop for it.
+
 
 ## 🚀 Installation
 
